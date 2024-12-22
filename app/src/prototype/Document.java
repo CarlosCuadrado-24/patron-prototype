@@ -1,6 +1,6 @@
 package prototype;
 
-public class Document implements Clonable{
+public class Document implements IClonable {
 
     private String title;
     private String content;

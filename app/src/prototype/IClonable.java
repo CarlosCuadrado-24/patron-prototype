@@ -1,5 +1,5 @@
 package prototype;
 
-public interface Clonable {
+public interface IClonable {
     Document cloneObject();
 }

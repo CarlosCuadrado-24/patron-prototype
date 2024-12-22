@@ -16,6 +16,7 @@ public class Main {
 
         System.out.println("-|-|-|-|-|-|NUEVO DOCUMENTO (COPIA)-|-|-|-|-|-|");
         Document document1 = template.cloneObject();
+        // Document document1 = template;
         System.out.println(document1.toString());
 
         System.out.println("-|-|-|-|-|-|DOCUMENTO MODIFICADO (COPIA)-|-|-|-|-|-|");

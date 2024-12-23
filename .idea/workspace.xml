@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5e30b2b-52b6-4408-bc4d-183a2fff953b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documentation/Diagrama-patron-prototype.drawio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/prototype/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/prototype/FontData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/prototype/GeneralSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/prototype/IClonable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/prototype/MarginData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/app/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/app/prototype/Clonable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/app/prototype/Document.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/app/prototype/FontData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/app/prototype/GeneralSettings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/app/prototype/MarginData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +36,10 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Carlos Cuadrado/IdeaProjects/Patron-Protype-Repo"
+    "last_opened_file_path": "C:/Users/Carlos Cuadrado/IdeaProjects/booking-refactorizacion"
   }
 }]]></component>
   <component name="RecentsManager">
